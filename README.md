@@ -141,7 +141,7 @@ Practice is crucial for mastering any programming language. Challenge yourself w
 
 [FreeCodeCamp](https://freecodecamp.org)
   
-[Codecademy](https://(codecademy.com)
+[Codecademy](https://codecademy.com)
 
 [Exercism](https://exercism.org/tracks/javascript)
   
