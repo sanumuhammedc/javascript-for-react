@@ -111,11 +111,11 @@ Take some time to review the basics of JavaScript. Ensure you have a good unders
 
 Resources:
   
-[Mozilla Developer Network (MDN) JavaScript Guide](developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+[Mozilla Developer Network (MDN) JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   
-[JavaScript.info](javascript.info)
+[JavaScript.info](https://javascript.info)
   
-[Eloquent JavaScript](eloquentjavascript.net)
+[Eloquent JavaScript](https://eloquentjavascript.net)
 
 #### Step 2: Explore Advanced JavaScript Concepts
 
@@ -131,19 +131,19 @@ Once you have a solid grasp of the fundamentals, it's time to dive into more adv
 
 ##### Resources:
 
-[MDN JavaScript Reference](developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+[MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   
-[JavaScript.info Advanced Topics](javascript.info/advanced-topics)
+[JavaScript.info Advanced Topics](https://javascript.info/advanced-topics)
 
 #### Step 3: Practice Coding
 
 Practice is crucial for mastering any programming language. Challenge yourself with coding exercises and projects to reinforce your knowledge. Some platforms that offer coding exercises and projects include:
 
-[FreeCodeCamp](freecodecamp.org)
+[FreeCodeCamp](https://freecodecamp.org)
   
-[Codecademy](codecademy.com)
+[Codecademy]https://(codecademy.com)
   
-[LeetCode](leetcode.com)
+[LeetCode](https://leetcode.com)
 
 #### Step 4: Read JavaScript Books
 
@@ -159,7 +159,7 @@ Consider reading books that delve deeper into JavaScript concepts. Here are a fe
 
 Engaging with the JavaScript community can be valuable for learning and staying up to date with the latest trends. Participate in online forums, join JavaScript-related social media groups, and attend local meetups or conferences. The following platforms are excellent for connecting with the JavaScript community:
 
-Reddit: [Visit the r/javascript subreddit](reddit.com/r/javascript)
+Reddit: [Visit the r/javascript subreddit](https://reddit.com/r/javascript)
   
 Twitter: Follow JavaScript experts, developers, and organizations to stay informed about JavaScript-related news and discussions.
   
