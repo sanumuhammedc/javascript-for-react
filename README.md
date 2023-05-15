@@ -129,7 +129,7 @@ Once you have a solid grasp of the fundamentals, it's time to dive into more adv
   
 - Modules: Learn about JavaScript modules to organize and structure your code effectively.
 
-#### Resources:
+##### Resources:
 
 [MDN JavaScript Reference](developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   
