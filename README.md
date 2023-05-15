@@ -119,7 +119,7 @@ Resources:
 
 #### Step 2: Explore Advanced JavaScript Concepts
 
-- Once you have a solid grasp of the fundamentals, it's time to dive into more advanced JavaScript concepts. Some important areas to explore include:
+Once you have a solid grasp of the fundamentals, it's time to dive into more advanced JavaScript concepts. Some important areas to explore include:
 
 - Closures: Learn about lexical scoping, closure creation, and their practical applications.
   
@@ -127,9 +127,9 @@ Resources:
   
 - Asynchronous JavaScript: Explore asynchronous programming concepts, including callbacks, promises, and async/await.
   
-Modules: Learn about JavaScript modules to organize and structure your code effectively.
+- Modules: Learn about JavaScript modules to organize and structure your code effectively.
 
-Resources:
+#### Resources:
 
 [MDN JavaScript Reference](developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
   
